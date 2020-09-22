@@ -21,7 +21,7 @@ public CambioMoneda() {
 	
 	public double divisaEuro(double monedaCol) {
 		
-		divisaEuro = monedaCol / 3864.34;
+		divisaEuro = monedaCol / 4456.00;
 		
 		return divisaEuro;
 		
