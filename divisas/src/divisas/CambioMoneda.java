@@ -13,7 +13,7 @@ public CambioMoneda() {
 	
 	public double divisaDolar(double monedaCol) {
 		
-		divisaDolar = monedaCol / 3000.00;
+		divisaDolar = monedaCol / 3788.00;
 		
 		return divisaDolar;
 		
